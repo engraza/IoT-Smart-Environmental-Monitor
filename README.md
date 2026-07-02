@@ -78,24 +78,6 @@ This project is designed to monitor environmental conditions using an ESP32 micr
 
 > Add a screenshot of the Serial Monitor.
 
----
-
-## 📂 Repository Structure
-
-```
-IoT-Smart-Environmental-Monitor
-│
-├── README.md
-├── Source_Code
-│   └── Smart_Environmental_Monitor.ino
-│
-└── Images
-    ├── Circuit.png
-    ├── LCD_Output.png
-    └── Serial_Monitor.png
-```
-
----
 
 ## 🚀 Future Improvements
 
